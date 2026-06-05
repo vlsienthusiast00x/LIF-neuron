@@ -48,6 +48,9 @@ t= 14.0 ms | V= -70.00 mV | SPIKE
 ...
 ```
 
+https://github.com/user-attachments/assets/343c64ad-6f10-4cd8-949c-bdc49484104b
+
+
 ## Key Concepts
 
 **Subthreshold dynamics** — below threshold, $V$ charges exponentially toward the steady state $V_{rest} + R \cdot I$. The time constant $\tau_m$ controls how quickly it gets there.
