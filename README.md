@@ -63,7 +63,3 @@ t= 14.0 ms | V= -70.00 mV | SPIKE
 - Gerstner, W. & Kistler, W. (2002). *Spiking Neuron Models*. Cambridge University Press.
 - Dayan, P. & Abbott, L.F. (2001). *Theoretical Neuroscience*. MIT Press. Ch. 5.
 - [Scholarpedia — Integrate-and-fire neuron](http://www.scholarpedia.org/article/Integrate-and-fire_neuron)
-
-## License
-
-MIT
