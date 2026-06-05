@@ -48,8 +48,7 @@ t= 14.0 ms | V= -70.00 mV | SPIKE
 ...
 ```
 
-https://github.com/user-attachments/assets/343c64ad-6f10-4cd8-949c-bdc49484104b
-
+https://github.com/user-attachments/assets/4f21d713-d32c-41e0-84e7-515f17b20faa
 
 ## Key Concepts
 
